@@ -1,0 +1,8 @@
+main.py
+pyproject.toml
+setup.py
+my_awesome_scipt.egg-info/PKG-INFO
+my_awesome_scipt.egg-info/SOURCES.txt
+my_awesome_scipt.egg-info/dependency_links.txt
+my_awesome_scipt.egg-info/entry_points.txt
+my_awesome_scipt.egg-info/top_level.txt
